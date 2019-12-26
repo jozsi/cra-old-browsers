@@ -25,13 +25,15 @@
       ">0.2%",
       "not dead",
       "not op_mini all",
-      "PhantomJS 2.1"
+      "PhantomJS 2.1",
+      "IE 11"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version",
-      "PhantomJS 2.1"
+      "PhantomJS 2.1",
+      "IE 11"
     ]
   }
 }

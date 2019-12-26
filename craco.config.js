@@ -21,6 +21,7 @@ module.exports = {
           ];
 
           webpackConfig.entry.unshift(
+            require.resolve('react-app-polyfill/ie11'),
             require.resolve('react-app-polyfill/stable'),
           );
 
